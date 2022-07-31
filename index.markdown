@@ -6,4 +6,8 @@ layout: home
 title: Home
 ---
 
+![image-title-here](/assets/images/ricotta.jpg){:class="img-responsive"}
 
+<span style="font-size:20px">
+    Some previous efforts:
+</span>

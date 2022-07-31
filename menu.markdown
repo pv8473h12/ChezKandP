@@ -12,4 +12,4 @@ permalink: /menu/
 
 </ul>
 
-![image-title-here](/assets/images/ricotta.jpg){:class="img-responsive"}
+![image-title-here](/assets/images/semihard_cheese.jpg){:class="img-responsive"}
