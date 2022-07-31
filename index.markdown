@@ -11,5 +11,5 @@ See the menu [here](./menu)
 ![image-title-here](/assets/images/ricotta.jpg){:class="img-responsive"}
 
 <span style="font-size:20px">
-    Some previous efforts:
+    Some previous dishes:
 </span>
