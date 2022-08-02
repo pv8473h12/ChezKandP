@@ -6,9 +6,10 @@ permalink: /menu/
 
 <ul>
 
-<li>Spatchcock chicken with seasonal roasted vegetables</li>
-<li>Garden salad</li>
-
+<li>Homemade burger on toasted brioche buns</li>
+<li>Sweet potato fries with aioli</li>
+<li>Corn on the cob</li>
+<li>Signature big salad</li>
 
 </ul>
 
