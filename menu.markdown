@@ -8,7 +8,7 @@ permalink: /menu/
 
 <li>Homemade burger on toasted brioche buns</li>
 <li>Sweet potato fries with aioli</li>
-<li>Corn on the cob</li>
+<li>Corn on the cob (subject to availability)</li>
 <li>Signature big salad</li>
 
 </ul>
