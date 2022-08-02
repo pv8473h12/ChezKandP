@@ -6,7 +6,8 @@ layout: home
 title: Home
 ---
 
-See the menu [here](./menu)
+See the [menu](./menu)
+[Book](https://reservation.carbonaraapp.com/United-Kingdom/London/Chez-K-P/)
 
 ![image-title-here](/assets/images/ricotta.jpg){:class="img-responsive"}
 
