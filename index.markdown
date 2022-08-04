@@ -7,11 +7,10 @@ title: Home
 ---
 
 See the [menu](./menu)
-<br>
-->[Book](https://reservation.carbonaraapp.com/United-Kingdom/London/Chez-K-P/)
 
 ![image-title-here](/assets/images/ricotta.jpg){:class="img-responsive"}
 
-<span style="font-size:20px">
-    Some previous dishes:
-</span>
+<br>
+<span style="font-size:20px"><u>
+    Previous dishes:
+</u></span>
